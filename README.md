@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🎯 I'm an **aspiring AI/ML developer** focused on the world of Large Language Models
-- 🔨 Currently building a **Resume Screener** — an AI tool that matches resumes to job descriptions using LLMs
+- 🔨 Built a **Resume Screener** — an AI tool that matches resumes to job descriptions using LLMs
 - 📚 Deep-diving into **LLM basics**, **prompt engineering**, and **API integration**
 - 🌱 Honest about where I am: *intermediate beginner, learning fast, building in public*
 - 💡 Believer in learning by doing — every project teaches me something new
@@ -54,8 +54,6 @@ An intelligent resume screening tool that uses Large Language Models to **analyz
 
 ```
 🔗 LLM Integration      ████████░░  80%  (getting good at this!)
-✍️  Prompt Engineering   ███████░░░  70%  (always improving)
-📚 RAG Concepts         █████░░░░░  50%  (actively learning)
 🛠️  Building AI Tools    ██████░░░░  60%  (learning by doing)
 🐍 Python for AI        ████████░░  80%  (comfortable here)
 ```
